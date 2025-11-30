@@ -1,0 +1,67 @@
+body {
+  margin: 40px;
+  background-color: #FFFF99;
+}
+h1 {
+  color: #FA8072 ;
+  text-align:center;
+  font-family:fantasy;
+  font-weight: 200 ;
+  font-size: 49 ;
+}
+.title {
+  color: #FFFF99;
+}
+p {
+  color: black;
+  text-align:justify;
+  font-family: tahoma;
+  font-size: 18 ;
+}
+h2 {
+  text-align: left;
+  color:deeppink;
+  font-family:fantasy;
+  font-size: 32 ;
+  font-weight: 200
+}
+h3 {
+  text-align: left;
+  color:darkturquoise;
+  font-size: 22 ;
+  font-family:fantasy;
+  font-weight: 200 ;
+}
+ol {
+  text-align:justify;
+  color: black;
+  font-family:tahoma;
+  font-size: 18 ;
+}
+ul {
+  text-align:justify;
+  color: black;
+  font-family:tahoma;
+  font-size: 18 ;
+}
+img {
+  border-color:#FF7F50;
+  border-style:dashed;
+  border-width: 5px;
+}
+.Precios {
+  font-family: fantasy;
+  color: #84fbfc;
+  font-weight:100 ;
+  font-size: 25 ;
+
+}
+.texto {
+  color: white;
+  font-family:cursive;
+  font-size: 20 ;
+  font-weight:bolder;
+}
+.Enlace {
+  border-style:hidden;
+}
